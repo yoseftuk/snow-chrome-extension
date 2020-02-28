@@ -1,4 +1,4 @@
-# snow-chrome-extension
+# Snow Chrome Extension
 chrome extension to display/hide snow on the screen
 
 ### Setup
