@@ -2,7 +2,7 @@
 var snow_interval;
 var canvas = document.createElement('canvas');
 var ctx = canvas.getContext('2d');
-canvas.style = 'position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;touch-action:none;z-index:1';
+canvas.style = 'position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;touch-action:none;z-index:1;background-color:transparent';
 document.body.appendChild(canvas);
 canvas.width = canvas.offsetWidth;
 canvas.height = canvas.offsetHeight;
